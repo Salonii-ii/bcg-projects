@@ -1,2 +1,2 @@
-# bcg-projects
-Projects and virtual internship work related to data science, analytics, dashboards, and Python.
+# internship-projects
+A growing collection of my virtual internship experiences, beginner tech projects, and learning work in data science, analytics, Python, dashboards, and business problem solving from programs by BCG, Walmart, Goldman Sachs, Tata, Commonwealth Bank, Johnson & Johnson, and others.
